@@ -17,19 +17,19 @@ void opcoes_cliente(/*Hash* TabCl*/){
 		printf("\n----------------------------------------------------------------------------");
         op = LeOpcao(OPCA1, OPCA1 + N_OPCA - 1);
         switch(op){
-            case OP1:
+            case OPCA1:
                 //hshcl_cadastra(TabCl);
                 break;
-            case OP2:
+            case OPCA2:
 				//hshcl_retirarcompleto(TabCl);
                 break;
-            case OP3:
+            case OPCA3:
                 //hshcl_consulta(TabCl);
                 break;
-            case OP4:
+            case OPCA4:
                // hshcl_imprime(TabCl);
                 break;
-            case OP5:
+            case OPCA5:
                 saida=1;
                 break;
             default:
