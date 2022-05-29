@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1653783203 source:d:\usuario\Área de trabalho\projeto\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<locale.h>
+	<string.h>
+	"usuario.h"
+	"interacao_menus.h"
+
+1653775482 source:d:\usuario\Área de trabalho\projeto\projeto\interacao_menus.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	"interacao_menus.h"
+
+1653789691 d:\usuario\Área de trabalho\projeto\projeto\interacao_menus.h
+
+1653790108 source:d:\usuario\Área de trabalho\projeto\projeto\cliente.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	<time.h>
+	"cliente.h"
+
+1653782325 d:\usuario\Área de trabalho\projeto\projeto\cliente.h
+	"interacao_menus.h"
+
+1653781128 source:d:\usuario\Área de trabalho\projeto\projeto\usuario.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	"usuario.h"
+
+1653781315 d:\usuario\Área de trabalho\projeto\projeto\usuario.h
+	"interacao_menus.h"
+	"cliente.h"
+
+1653783256 source:d:\usuario\Área de trabalho\projeto\projeto\interface.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	<time.h>
+	"cliente.h"
+
+1653839362 source:c:\users\public\documents\supreme-shop\cliente.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	<time.h>
+	"cliente.h"
+
+1653840095 c:\users\public\documents\supreme-shop\cliente.h
+	"interacao_menus.h"
+
+1653839201 c:\users\public\documents\supreme-shop\interacao_menus.h
+
+1653775482 source:c:\users\public\documents\supreme-shop\interacao_menus.c
+	<stdio.h>
+	<stdarg.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	"interacao_menus.h"
+
+1653840031 source:c:\users\public\documents\supreme-shop\interface.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	<time.h>
+	"cliente.h"
+
+1653840038 source:c:\users\public\documents\supreme-shop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<locale.h>
+	<string.h>
+	"cliente.h"
+	"interacao_menus.h"
+
