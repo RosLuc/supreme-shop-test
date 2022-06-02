@@ -4,6 +4,7 @@
 #include <locale.h>
 #include <string.h>
 #include "cliente.h"
+#include "interface.h"
 #include "interacao_menus.h"
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */

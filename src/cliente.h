@@ -3,14 +3,7 @@
 
 #include "interacao_menus.h"
 
-
-
 typedef struct cliente Cliente;
 typedef struct hash Hash;
 
-
-
-
 #endif
-
-

@@ -3,12 +3,10 @@
 
 #include "interacao_menus.h"
 
-
-
 typedef struct cliente Cliente;
 typedef struct hash Hash;
 
-void opcoes_do_sistema;
+void opcoes_do_sistema();
 
 void opcoes_cliente(Hash* TabCl);
 
